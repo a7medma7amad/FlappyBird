@@ -1,0 +1,17 @@
+﻿  OpenGL2DTemplate.cpp
+C:\Users\a7med\Desktop\CG Assign\FlappyBird\OpenGL2DTemplate.cpp(182,48): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\a7med\Desktop\CG Assign\FlappyBird\OpenGL2DTemplate.cpp(182,83): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\a7med\Desktop\CG Assign\FlappyBird\OpenGL2DTemplate.cpp(182,118): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\a7med\Desktop\CG Assign\FlappyBird\OpenGL2DTemplate.cpp(182,158): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\a7med\Desktop\CG Assign\FlappyBird\OpenGL2DTemplate.cpp(182,199): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\a7med\Desktop\CG Assign\FlappyBird\OpenGL2DTemplate.cpp(182,240): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\a7med\Desktop\CG Assign\FlappyBird\OpenGL2DTemplate.cpp(182,277): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\a7med\Desktop\CG Assign\FlappyBird\OpenGL2DTemplate.cpp(182,313): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\a7med\Desktop\CG Assign\FlappyBird\OpenGL2DTemplate.cpp(253,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\a7med\Desktop\CG Assign\FlappyBird\OpenGL2DTemplate.cpp(494,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\a7med\Desktop\CG Assign\FlappyBird\OpenGL2DTemplate.cpp(496,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\a7med\Desktop\CG Assign\FlappyBird\OpenGL2DTemplate.cpp(504,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\a7med\Desktop\CG Assign\FlappyBird\OpenGL2DTemplate.cpp(506,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\a7med\Desktop\CG Assign\FlappyBird\OpenGL2DTemplate.cpp(503,19): warning C4101: 'p1s': unreferenced local variable
+OpenGL2DTemplate.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGL2DTemplate.vcxproj -> C:\Users\a7med\Desktop\CG Assign\FlappyBird\Debug\OpenGL2DTemplate.exe
